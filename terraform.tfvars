@@ -1,0 +1,10 @@
+student_id            = "24ug00221"
+supabase_project_url  = "https://kfykapfyckrqwdrarbzu.supabase.co"
+bucket_name           = "storage-24ug00221"
+object_name           = "24ug00221-sample-file.pdf"
+local_file_path       = "./sample-file.pdf"
+content_type          = "application/pdf"
+environment           = "assignment"
+project_name          = "cloud-computing-terraform-assignment"
+
+supabase_secret_key = "sb_secret_h4j1GanlbA4fzH2Pf-wwOQ_227msErg"
